@@ -1,0 +1,27 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 190px;
+}
+body {
+    background-image: url(Images/Background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+li,a {
+    color: blue;
+    font-size: 20px;
+}
+p {
+    font-size: 26px;
+}
+.link {
+    font-size: x-large;
+    color: blue;
+    font-weight: bold;
+}
+li a:hover {
+    background-color: #111111;
+    float: left;
+}
